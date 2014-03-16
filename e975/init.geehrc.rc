@@ -99,7 +99,7 @@ service p2p_supplicant /system/bin/wpa_supplicant \
     disabled
     oneshot
 
-service conn_init /system/bin/logwrapper /system/bin/conn_init
+service conn_init /system/bin/conn_init
     class late_start
     user system
     group system wifi
