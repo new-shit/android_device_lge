@@ -1,0 +1,7 @@
+#!/system/bin/sh
+# call some qcom scripts
+
+log -p i -t userinit "Executing QCOM scripts";
+#logwrapper /system/bin/sh /system/etc/init.qcom.modem_links.sh
+logwrapper /system/bin/sh /system/etc/init.qcom.post_boot.sh
+
