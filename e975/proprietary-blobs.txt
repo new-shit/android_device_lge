@@ -29,13 +29,6 @@ bin/thermald
 bin/time_daemon
 bin/usbhub
 bin/usbhub_init
-etc/firmware/dsps.b00
-etc/firmware/dsps.b01
-etc/firmware/dsps.b02
-etc/firmware/dsps.b03
-etc/firmware/dsps.b04
-etc/firmware/dsps.b05
-etc/firmware/dsps.mdt
 bin/fm_qsoc_patches
 bin/fmconfig
 etc/firmware/dxhdcp2.b00
