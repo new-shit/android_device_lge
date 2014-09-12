@@ -34,8 +34,8 @@ PRODUCT_PACKAGES += \
 	lights.geehrc
 
 PRODUCT_COPY_FILES += \
-	$(LOCAL_PATH)/WCNSS_cfg.dat:system/vendor/firmware/wlan/prima/WCNSS_cfg.dat \
-	$(LOCAL_PATH)/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
+	kernel/lge/gproj/drivers/staging/prima/firmware_bin/WCNSS_cfg.dat:system/vendor/firmware/wlan/prima/WCNSS_cfg.dat \
+	kernel/lge/gproj/drivers/staging/prima/firmware_bin/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
 	$(LOCAL_PATH)/WCNSS_qcom_wlan_nv.bin:system/etc/wifi/WCNSS_qcom_wlan_nv.bin \
 	$(LOCAL_PATH)/FTM_PowerTable.XML:system/etc/wifi/FTM_PowerTable.XML
 
