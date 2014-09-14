@@ -36,6 +36,8 @@ etc/firmware/dsps.b03
 etc/firmware/dsps.b04
 etc/firmware/dsps.b05
 etc/firmware/dsps.mdt
+bin/fm_qsoc_patches
+bin/fmconfig
 etc/firmware/dxhdcp2.b00
 etc/firmware/dxhdcp2.b01
 etc/firmware/dxhdcp2.b02
