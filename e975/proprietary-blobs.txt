@@ -102,6 +102,7 @@ lib/libatd_modeminterface.so
 lib/libaudcal.so
 lib/libaudioalsa.so
 lib/libbluedroid_bdt.so
+lib/libbtnv.so
 lib/libc2d2_a3xx.so
 lib/libchromatix_imx074_default_video.so
 lib/libchromatix_imx074_preview.so
