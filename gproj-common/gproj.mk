@@ -220,4 +220,4 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, hardware/qcom/msm8960/msm8960.mk)
 
 # This is the mako-specific audio package
-$(call inherit-product, frameworks/base/data/sounds/AudioPackage10.mk)
+#$(call inherit-product, frameworks/base/data/sounds/AudioPackage10.mk)
